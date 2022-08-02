@@ -1,0 +1,337 @@
+GET request,
+Path: /index.html
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/resort.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 14:34:26 GMT
+
+
+GET request,
+Path: /downloadpdf.png
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+If-Modified-Since: Thu, 28 Jul 2022 14:33:40 GMT
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+GET request,
+Path: /nozze.html
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 14:14:54 GMT
+
+
+GET request,
+Path: /nozze.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/nozze.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 13:24:21 GMT
+
+
+GET request,
+Path: /resort.html
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 13:34:59 GMT
+
+
+GET request,
+Path: /maldive.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/resort.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 13:28:26 GMT
+
+
+GET request,
+Path: /sardegna.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/resort.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 13:28:26 GMT
+
+
+GET request,
+Path: /restort1.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/resort.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+If-Modified-Since: Thu, 28 Jul 2022 13:28:26 GMT
+
+
+GET request,
+Path: /info.pdf
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/index.html
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+GET request,
+Path: /style.css
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 13:20:32 GMT
+
+
+GET request,
+Path: /logo.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 12:55:16 GMT
+
+
+GET request,
+Path: /footer.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 12:55:16 GMT
+
+
+GET request,
+Path: /downloadpdf.png
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 14:33:40 GMT
+
+
+GET request,
+Path: /favicon.ico
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+
+
+GET request,
+Path: /index.html
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept-Language: it-IT
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/nozze.html
+Accept-Encoding: gzip, deflate, br
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 14:34:26 GMT
+
+
+GET request,
+Path: /nozze.html
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept-Language: it-IT
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 14:14:54 GMT
+
+
+GET request,
+Path: /nozze.jpg
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/nozze.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+If-Modified-Since: Thu, 28 Jul 2022 13:24:21 GMT
+
+
+GET request,
+Path: /info.pdf
+Headers:
+Host: localhost:8080
+Connection: keep-alive
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/index.html
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: io=tjzWG8uJULHMFKkyAAAD; PHPSESSID=k26f0k3ovb7kdqvrq9e6b1oc6d
+
+
